@@ -21,6 +21,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "branch2",
     "last_opened_file_path": "C:/Users/W24029398/Documents/GitHub/Workshop-11",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -44,6 +45,7 @@
       <updated>1728304120887</updated>
       <workItem from="1728304121937" duration="72000" />
       <workItem from="1728304195178" duration="145000" />
+      <workItem from="1728304341867" duration="40000" />
     </task>
     <servers />
   </component>
