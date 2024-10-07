@@ -10,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2n6qxfU5406s52L6hpHqNj00qHo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,7 +21,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "BranchWorkshop11",
     "last_opened_file_path": "C:/Users/W24029398/Documents/GitHub/Workshop-11",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -44,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728304120887</updated>
       <workItem from="1728304121937" duration="72000" />
+      <workItem from="1728304195178" duration="145000" />
     </task>
     <servers />
   </component>
